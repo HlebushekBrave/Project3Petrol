@@ -1,0 +1,1 @@
+petrol = int(input())
